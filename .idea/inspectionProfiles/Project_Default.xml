@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="phoenix.api.v2.benefit.BenefitOffBoardResource.Session" />
+          <option value="phoenix.api.v2.benefit.BenefitUpdateEmployerResource.Session" />
+          <option value="phoenix.api.v2.benefit.BenefitEmployeeResource.Session" />
+          <option value="phoenix.api.v2.benefit.BenefitAddVisitResource.Session" />
+          <option value="phoenix.api.v2.benefit.BenefitEmployeesResource.Session" />
+          <option value="phoenix.api.v2.benefit.BenefitEmployeesActivityResources.Session" />
+          <option value="phoenix.api.v2.benefit.VisitResource.Session" />
+          <option value="phoenix.api.v2.benefit.UpdateUserResource.Session" />
+          <option value="phoenix.api.v2.benefit.BenefitResource.Session" />
+          <option value="phoenix.api.v2.benefit.BenefitDependentResource.Session" />
+          <option value="phoenix.api.v2.benefit.BenefitAddEmployeeResources.Session" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
